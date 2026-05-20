@@ -1,0 +1,12 @@
+﻿crewai==1.13.0
+crewai-tools==1.13.0
+langchain-google-genai
+google-generativeai
+requests
+redis
+fastapi
+uvicorn
+streamlit
+python-dotenv
+httpx
+pydantic
