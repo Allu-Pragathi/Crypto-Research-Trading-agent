@@ -1,5 +1,8 @@
 venv/
+config/.env
 __pycache__/
 *.pyc
+alerts.log
 .env
-config/.env
+*.db
+write_dashboard.py
